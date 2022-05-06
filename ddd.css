@@ -1,0 +1,17 @@
+:root{font: 20px/1.2 "Roboto Light",sans-serif;}
+body,
+body *{
+    margin: unset;
+    box-shadow: unset;
+    padding: unset;
+    font-size: unset;
+    color: unset;
+    text-decoration: unset;
+}
+figure * {
+    display: block;
+}
+article{
+    background: linear-gradient(hsl(52, 31%, 86%), #eeb4b4 6.55rem);
+
+}
